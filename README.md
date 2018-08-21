@@ -5,8 +5,7 @@
 https://pacific-bastion-42660.herokuapp.com/
 
 ### Details
-- Currently, I'm running this using Heroku(hosting)/Ubuntu16(OS for testing&commits)/MongoDB(mLab) 
-- ReactJS, ExpressJS
+- Currently, I'm running this using Heroku(hosting)/Ubuntu16(OS for testing&commits)/MongoDB(mLab), ReactJS, ExpressJS
 - Still currently designing the API page. 
 - Brackets IDE (at times)
 
