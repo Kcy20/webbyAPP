@@ -75,8 +75,8 @@ function config($httpProvider, $routeProvider) {
 			}
 		})
 		.when('/honors-awards', {
-			templateUrl: 'angular-app/womens-empowerment/womens-empowerment.html',
-			controller: WomensController,
+			templateUrl: 'angular-app/random/wrandom.html',
+			controller: RandomController,
 			controllerAs: 'vm',
 			access: {
 				user_restricted: false,
